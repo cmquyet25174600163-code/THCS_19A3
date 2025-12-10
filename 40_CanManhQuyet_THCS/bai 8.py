@@ -1,7 +1,0 @@
-can_nang_kg = float(input("Nhập cân nặng của bạn (kg): "))
-chieu_cao_met = float(input("Nhập chiều cao của bạn (mét): "))
-bmi = can_nang_kg / (chieu_cao_met * chieu_cao_met)
-print(f"\n--- Kết quả BMI ---")
-print(f"Cân nặng: {can_nang_kg} kg")
-print(f"Chiều cao: {chieu_cao_met} m")
-print(f"Chỉ số BMI của bạn là: {bmi:.2f}")
