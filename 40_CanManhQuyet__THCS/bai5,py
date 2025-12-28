@@ -1,6 +1,0 @@
-def kiem_tra_so_doi_xung(n):
-    return str(n) == str(n)[::-1]
-
-# Gọi hàm
-n = int(input("Nhập số cần kiểm tra: "))
-print("Số đối xứng?", kiem_tra_so_doi_xung(n))
