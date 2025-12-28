@@ -1,0 +1,4 @@
+ID,Ten san pham,Gia
+1,Laptop,1200
+2,Chuot may tinh,25
+3,Ban phim,75
